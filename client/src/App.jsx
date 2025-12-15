@@ -3,7 +3,7 @@ import { io } from 'socket.io-client'
 
 
 // Cambia la URL si corres el server en otra máquina/puerto
-const SOCKET_URL = 'http://localhost:3000'
+const SOCKET_URL = 'http://44.221.89.67:3000/'
 
 
 export default function App() {
